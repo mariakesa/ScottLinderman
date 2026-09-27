@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 /lab2/lab01_data.pt
+
+*.pt
+*.h5
